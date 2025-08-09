@@ -1,6 +1,6 @@
-#Sistema de Enrolamento Automatizado para Reciclagem Didática de PET em Impressão 3D
+## Sistema de Enrolamento Automatizado para Reciclagem Didática de PET em Impressão 3D
 
-## Contexto Educacional
+## Contexto Educacional 
 Projeto desenvolvido para:
 - Demonstrar o ciclo completo da reciclagem (PET → filamento → peça 3D)
 - Conscientizar sobre coleta seletiva
